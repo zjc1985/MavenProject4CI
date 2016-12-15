@@ -6,7 +6,7 @@ package com.yufu;
  */
 public class App {
 	public static void main(String[] args) {
-		SomeHelper helper=new SomeHelper();
-		System.out.println(helper.callHelloWorld());
+		//change somthing
+		System.out.println(SomeHelper.callHelloWorld());
 	}
 }
