@@ -6,7 +6,7 @@ package com.yufu;
  */
 public class App {
 	public static void main(String[] args) {
-		//change somthing
+		//change somthing change somthing
 		System.out.println(SomeHelper.callHelloWorld());
 	}
 }
