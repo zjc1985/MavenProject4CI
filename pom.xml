@@ -9,8 +9,8 @@
 
 	<scm>
 		<url>https://github.com/zjc1985/MavenProject4CI</url>
-		<connection>scm:git:https://github.com/zjc1985/MavenProject4CI</connection>
-		<developerConnection>scm:git:https://github.com/zjc1985/MavenProject4CI</developerConnection>
+		<connection>scm:git:git@github.com/zjc1985/MavenProject4CI</connection>
+		<developerConnection>scm:git:git@github.com/zjc1985/MavenProject4CI</developerConnection>
 		<tag>master</tag>
 	</scm>
 
