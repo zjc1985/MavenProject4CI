@@ -3,7 +3,7 @@
 	<groupId>com.yufu</groupId>
 	<artifactId>MyJavaProject</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.5-SNAPSHOT</version>
+	<version>1.0.5</version>
 	<name>MyJavaProject</name>
 	<url>http://maven.apache.org</url>
 
@@ -11,7 +11,7 @@
 		<url>https://github.com/zjc1985/MavenProject4CI</url>
 		<connection>scm:git:https://github.com/zjc1985/MavenProject4CI</connection>
 		<developerConnection>scm:git:git@github.com:zjc1985/MavenProject4CI.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v1.0.5</tag>
 	</scm>
 
 	<dependencies>
