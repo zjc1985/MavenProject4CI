@@ -10,7 +10,7 @@
 	<scm>
 		<url>https://github.com/zjc1985/MavenProject4CI</url>
 		<connection>scm:git:https://github.com/zjc1985/MavenProject4CI</connection>
-		<developerConnection>scm:git:git@github.com/zjc1985/MavenProject4CI.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:zjc1985/MavenProject4CI.git</developerConnection>
 		<tag>v1.0.5</tag>
 	</scm>
 
