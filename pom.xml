@@ -3,15 +3,15 @@
 	<groupId>com.yufu</groupId>
 	<artifactId>MyJavaProject</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.4</version>
+	<version>1.0.5-SNAPSHOT</version>
 	<name>MyJavaProject</name>
 	<url>http://maven.apache.org</url>
 
 	<scm>
 		<url>https://github.com/zjc1985/MavenProject4CI</url>
-		<connection>scm:git:zjc1985@github.com/zjc1985/MavenProject4CI</connection>
-		<developerConnection>scm:git:zjc1985@github.com/zjc1985/MavenProject4CI</developerConnection>
-		<tag>v1.0.4</tag>
+		<connection>scm:git:git@github.com/zjc1985/MavenProject4CI.git</connection>
+		<developerConnection>scm:git:git@github.com/zjc1985/MavenProject4CI.git</developerConnection>
+		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
