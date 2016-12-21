@@ -2,6 +2,6 @@ package com.yufu;
 
 public class SomeHelper {
 	public static String callHelloWorld() {
-		return "Hello World s";
+		return "Hello World ss";
 	}
 }
